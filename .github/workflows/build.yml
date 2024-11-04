@@ -219,9 +219,7 @@ jobs:
       matrix:
         # Python runtime versions supported by AWS
         python-version:
-          - "3.7"
-          - "3.8"
-          - "3.9"
+          - "3.12"
     steps:
       - id: harden-runner
         name: Harden the runner
