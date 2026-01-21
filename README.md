@@ -1,6 +1,8 @@
 # cyhy-cvesync-lambda #
 
 [![GitHub Build Status](https://github.com/cisagov/cyhy-cvesync-lambda/workflows/build/badge.svg)](https://github.com/cisagov/cyhy-cvesync-lambda/actions)
+[![License](https://img.shields.io/github/license/cisagov/cyhy-cvesync-lambda)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/cyhy-cvesync-lambda/workflows/CodeQL/badge.svg)](https://github.com/cisagov/cyhy-cvesync-lambda/actions/workflows/codeql-analysis.yml)
 
 This Lambda is designed to retrieve JSON files containing Common
 Vulnerabilities and Exposures (CVE) data (such as those from the [National
