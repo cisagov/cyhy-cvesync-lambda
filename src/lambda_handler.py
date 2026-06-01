@@ -1,4 +1,7 @@
-"""AWS Lambda handler to synchronize Common Vulnerabilities and Exposures (CVE) data data with a Cyber Hygiene database."""
+"""Synchronize CVE data with a Cyber Hygiene database.
+
+Here CVE stands for Common Vulnerabilities and Exposures.
+"""
 
 # Standard Python Libraries
 import asyncio
